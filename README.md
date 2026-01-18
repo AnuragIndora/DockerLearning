@@ -8,11 +8,11 @@ This repository contains notes, examples, and practical tips for learning Docker
 
 ## **Table of Contents**
 
-- [Chapter 1: Docker Basics](#Chapter1)
-- [Chapter 2: Port Forwarding](#Chapter2)
-- [Chapter 3: Network Adapters](#Chapter3)
-- [Chapter 4: Docker Compose](#Chapter4)
-- [Chapter 5: Volumes](#Chapter5)
+- [Chapter 1: Docker Basics](./Chapter1)
+- [Chapter 2: Port Forwarding](./Chapter2)
+- [Chapter 3: Network Adapters](./Chapter3)
+- [Chapter 4: Docker Compose](./Chapter4)
+- [Chapter 5: Volumes](./Chapter5)
 
 ---
 
